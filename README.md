@@ -1,2 +1,2 @@
 # Data-Engineering-Projects
-Cloud projects
+Practiced Projects are done on Azure, GCP and AWS 
